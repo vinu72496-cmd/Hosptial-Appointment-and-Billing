@@ -1,0 +1,3 @@
+@echo off
+echo Launching Clinic Patient Flow Board...
+java -cp bin clinicflow.Main

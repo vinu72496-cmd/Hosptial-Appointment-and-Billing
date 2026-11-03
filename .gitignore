@@ -1,0 +1,17 @@
+# Build and compiled output
+bin/
+*.class
+
+# Backup and temporary files
+*.bak
+*.tmp
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.settings/
+.classpath
+.project

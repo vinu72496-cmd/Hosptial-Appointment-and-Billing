@@ -1,0 +1,3 @@
+@echo off
+echo Running Clinic Flow Automated Test Suite...
+java -cp bin clinicflow.test.ClinicFlowTestSuite

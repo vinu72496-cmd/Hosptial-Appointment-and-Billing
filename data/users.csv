@@ -1,0 +1,5 @@
+username,passwordHash,role,displayName,doctorName
+admin,240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9,ADMIN,System Administrator,
+reception,1270ddbd388e309b1234f4e500ea78a83c9d111040fa6cce86c31df0144a3659,RECEPTIONIST,Front Desk Receptionist,
+dr_sharma,c3362e4da49c24d379b72152ae6c99f1fa035f52829dceed715a7bf8bb464b98,DOCTOR,Dr. A. Sharma,Dr. A. Sharma (General Medicine)
+dr_patel,c3362e4da49c24d379b72152ae6c99f1fa035f52829dceed715a7bf8bb464b98,DOCTOR,Dr. P. Patel,Dr. P. Patel (Pediatrics)

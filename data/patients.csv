@@ -1,0 +1,9 @@
+id,token,name,age,phone,reason,notes,doctor,priority,stage,registeredAt,cancelled,cancellationReason
+1,T-001,Vikram Singh,42,9876543210,Severe chest pain & dizziness,Stretcher assistance provided,Dr. A. Sharma (General Medicine),EMERGENCY,DONE,2026-10-13T18:17:24.322362,false,
+2,T-002,Savitri Devi,68,9812345678,Joint pain & high blood pressure checkup,Wheelchair requested,Dr. A. Sharma (General Medicine),SENIOR_CHILD,DONE,2026-10-13T18:07:24.322362,false,
+3,T-003,Rahul Verma,29,9988776655,Persistent viral fever & body ache,Fasting for test if required,Dr. P. Patel (Pediatrics),NORMAL,DONE,2026-10-13T17:54:24.322362,false,
+4,T-004,Ananya Iyer,34,9123456780,Routine diabetic consultation,Brought previous lab reports,Dr. A. Sharma (General Medicine),NORMAL,DONE,2026-10-13T18:09:24.322362,false,
+5,T-005,Aarav Mehta,8,9871122334,Stomach ache & vomiting,Sample sent to pathology lab,Dr. P. Patel (Pediatrics),SENIOR_CHILD,DONE,2026-10-13T17:44:24.322362,false,
+6,T-006,Sunita Rao,51,9765432109,ECG follow-up & medication renewal,Insurance claim form stamped,Dr. S. Roy (Cardiology),NORMAL,DONE,2026-10-13T17:39:24.322362,false,
+7,T-007,Karan Malhotra,25,9955443322,Allergy rash consultation,Prescription dispensed,Dr. A. Sharma (General Medicine),NORMAL,DONE,2026-10-13T16:59:24.322362,false,
+8,T-001,shubham,69,9798369873,pain in gaand and aand,muthhi beech mein rhe gayi!!!!!!!!!!,Dr. S. Roy (Cardiology),EMERGENCY,DONE,2026-10-15T21:52:02.7389326,false,
